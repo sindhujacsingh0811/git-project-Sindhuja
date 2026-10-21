@@ -7,3 +7,5 @@
 ## Projects
 - Sindhuja: hello ji sab badhiya?
 - Singh: hello ji sab ghatiya?
+## Contact
+- Email : sindhujacsingh0811@gmail.com
