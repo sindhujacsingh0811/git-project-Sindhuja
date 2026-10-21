@@ -4,3 +4,6 @@
 - Communication
 - Problem Solving
 - Basic Git
+## Projects
+- Sindhuja: hello ji sab badhiya?
+- Singh: hello ji sab ghatiya?
