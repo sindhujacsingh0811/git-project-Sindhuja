@@ -7,6 +7,3 @@
 ## Projects
 - Sindhuja: hello ji sab badhiya?
 - Singh: hello ji sab ghatiya?
-## Social Links
-- Github: https://github.com/sindhujacsingh0811
-- LinkedIn: https://www.linkedin.com/in/sindhuja-tech/
